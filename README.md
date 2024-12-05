@@ -1,7 +1,7 @@
 # Melbourne_100
 # 1. Scraping the data: 
 
-The data was obtained by creating a token to access the data. A code was written to obtain the required data using the token and save it to the "users" and "repository" CSV files. The data was subsequently verified using the "Postman API" platform. 
+The data was obtained by creating a token to access the data. A code was written to obtain the required data using the token and save it to the "users" and "repositories" CSV files. The data was subsequently verified using the "Postman API" platform. The codes are provided as well.
 
 # 2. Interesting and Surprising Facts:
 
